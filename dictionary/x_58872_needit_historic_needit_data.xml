@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="15e8698053b1a210bee870c0a0490e26" extends="sys_import_set_row" label="Historic NeedIt Data" max_length="40" name="x_58872_needit_historic_needit_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Legal" label="Legal" max_length="40" name="u_legal" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fred Luddy" label="Fred Luddy" max_length="40" name="u_fred_luddy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Patent question" label="Patent question" max_length="40" name="u_patent_question" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Legal 1" label="Legal 1" max_length="40" name="u_legal_1" type="string"/>
+    </element>
+</database>

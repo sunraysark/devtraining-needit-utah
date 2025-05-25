@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e96a290453b1a210bee870c0a0490e67" extends="sys_import_set_row" label="Historic NeedIt Data1" max_length="40" name="x_58872_needit_historic_needit_data1" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reuest Type" label="Reuest Type" max_length="40" name="u_reuest_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿Requested for" label="ï»¿Requested for" max_length="40" name="u_rplcd_n_ascii_625730896" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=What needed" label="What needed" max_length="40" name="u_what_needed" type="string"/>
+    </element>
+</database>
